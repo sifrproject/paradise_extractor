@@ -1,0 +1,66 @@
+cardiostimulateur
+dispositifs de resynchronisation cardiaque
+dispositifs de thérapie de resynchronisattion cardiaque
+dispositifs implantables de resynchronisation cardiaque
+dispositifs implantables de stimulation cardiaque multisite
+dispositifs thérapeutiques de resynchronisation cardiaque
+endoprothèse coronaire dite stent, inactif, cid, avantgarde chrono carbostent
+pacemaker
+pacemakers articifiels biventriculaires
+section 1 : stimulateurs cardiaques
+sous-section 1 :  stimulateurs cardiaques simple chambre
+sous-section 2 :  stimulateurs cardiaques simple chambre a frequence asservie
+sous-section 3 :  stimulateurs cardiaques vdd ou vddr
+sous-section 4 :  stimulateurs cardiaques double chambre
+sous-section 5 :  stimulateurs cardiaques double chambre a frequence asservie
+sous-section 6 :  stimulateurs cardiaques stimulation atrio-bi-ventriculaire dits triple chambre
+stimulateur cardiaque
+stimulateur cardiaque de resynchronisation ventriculaire, biotronik, stratos lv
+stimulateur cardiaque de resynchronisation ventriculaire, biotronik, stratos lvt
+stimulateur cardiaque de resynchronisation ventriculaire, ela, talent msp 313
+stimulateur cardiaque de resynchronisation ventriculaire, ela, talent msp 353
+stimulateur cardiaque double chambre freq. asserv., st-jude, identity ã€ dr 5386
+stimulateur cardiaque double chambre freq.asserv., medtronic, en pulse dr
+stimulateur cardiaque double chambre freq.asserv., medtronic, enrhythm
+stimulateur cardiaque double chambre freq.asserv., sorin, miniswing dr 1
+stimulateur cardiaque double chambre freq.asserv., sorin, miniswing dr 1e
+stimulateur cardiaque double chambre freq.asserv., sorin, symphony dr 2550
+stimulateur cardiaque double chambre freq.asserv., st-jude, identity a dr 5380
+stimulateur cardiaque double chambre freq.asserv., vitatron france, t 70 dr
+stimulateur cardiaque double chambre fréq. asserv. biotronik, philos ii dr-t
+stimulateur cardiaque double chambre fréq. asserv., biotronik, evia dr-t
+stimulateur cardiaque double chambre fréq. asserv., medtronic, adapta dr
+stimulateur cardiaque double chambre fréq. asserv., medtronic, adapta dr addr 03 \ 06
+stimulateur cardiaque double chambre fréq. asserv., sorin, reply dr
+stimulateur cardiaque double chambre fréq. asserv., sorin, symphony dr 2550
+stimulateur cardiaque double chambre monosonde freq. asserv, type vddr
+stimulateur cardiaque double chambre monosonde, type vdd
+stimulateur cardiaque double chambre, sorin, elect d
+stimulateur cardiaque double chambre, st-jude, identity adx xl dc 5286
+stimulateur cardiaque double chambre, type ddd
+stimulateur cardiaque double chambre, type dddr
+stimulateur cardiaque implantable \triple chambre\, société st jude, anthem
+stimulateur cardiaque simple chambre freq.asserv, st-jude, identity a sr 5180
+stimulateur cardiaque simple chambre freq.asserv., sorin, gamme miniswing 200
+stimulateur cardiaque simple chambre frequence asservie, type ssir (vvir / aair)
+stimulateur cardiaque simple chambre fréq. asserv., biotronik, evia sr-t
+stimulateur cardiaque simple chambre, type ssi (aai et vvi)
+stimulateur cardiaque triple chambre, guidant, contak tr 1241
+stimulateur cardiaque triple chambre, guidant, contak tr 2
+stimulateur cardiaque triple chambre, medtronic, insync iii
+stimulateur cardiaque triple chambre, sorin, newliving chf
+stimulateur cardiaque triple chambre, st-jude, frontier 3x2
+stimulateur cardiaque triple chambre, vitatron france, crt 8000, modele rt 8000
+stimulateur cardiaque, double chambre freq.asserv, guidant, insigna ultra dr 1290
+stimulateur cardiaque, double chambre fréq. asserv., medtronic, adapta dr
+stimulateur cardiaque, simple chambre freq.asserv, guidant, insigna ultra sr 1190
+stimulateur cardique triple chambre, medtronic, consulta crt-p
+stimulateurs cardiaques biventriculaires
+wandering pacemaker
+ stimulateurs cardiaques
+ stimulateurs cardiaques double chambre
+ stimulateurs cardiaques double chambre a frequence asservie
+ stimulateurs cardiaques simple chambre
+ stimulateurs cardiaques simple chambre a frequence asservie
+ stimulateurs cardiaques stimulation atrio-bi-ventriculaire dits triple chambre
+ stimulateurs cardiaques vdd ou vddr

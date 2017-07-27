@@ -1,0 +1,10 @@
+http://bioportal.lirmm.fr/ontologies/ONTOLURGENCES/?p=classes&conceptid=http%3A%2F%2Fwww.limics.fr%2Fontologies%2Fontolurgences%23MaladiesDesArteresCoronaires 
+http://bioportal.lirmm.fr/ontologies/MDRFRE/?p=classes&conceptid=http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10011082
+http://bioportal.lirmm.fr/ontologies/WHO-ARTFRE?p=classes&conceptid=http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FWHO-ART%230426_PT
+http://bioportal.lirmm.fr/ontologies/MEDLINEPLUS?p=classes&conceptid=http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FMedlinePlus%23T202 
+http://bioportal.lirmm.fr/ontologies/MDRFRE?p=classes&conceptid=http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10011110 
+http://bioportal.lirmm.fr/ontologies/MSHFRE?p=classes&conceptid=http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD003323 
+http://bioportal.lirmm.fr/ontologies/CIM-10/?p=classes&conceptid=http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FCIM-10%23I25.1
+http://bioportal.lirmm.fr/ontologies/CIM-10/?p=classes&conceptid=http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FCIM-10%23I25.4 
+http://bioportal.lirmm.fr/ontologies/MDRFRE?p=classes&conceptid=http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10067981
+http://bioportal.lirmm.fr/ontologies/MSHFRE?p=classes&conceptid=http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD003324

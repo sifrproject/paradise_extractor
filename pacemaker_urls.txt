@@ -1,0 +1,4 @@
+http://bioportal.lirmm.fr/ontologies/MSHFRE?p=classes&conceptid=http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD010138  
+http://bioportal.lirmm.fr/ontologies/WHO-ARTFRE?p=classes&conceptid=http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FWHO-ART%230433_IT5 
+http://bioportal.lirmm.fr/ontologies/MDRFRE?p=classes&conceptid=http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10047818 
+http://bioportal.lirmm.fr/ontologies/LPP/?p=classes&conceptid=http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FLPP%231000222

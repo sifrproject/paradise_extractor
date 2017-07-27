@@ -1,0 +1,100 @@
+admission d'un parent, pour soins d'un enfant hospitalisé
+admission du malade
+admission du patient
+admission en clinique spécialisée
+admission et décès à la salle d'urgence
+admission générale en clinique externe
+admission volontaire
+admission à la salle d'urgence
+admission à la salle d'urgence suivie du congé
+admission à la salle d'urgence, mort à l'arrivée
+assurance de la protection du patient
+attestation d'admission
+attestation d'admission approuvée
+attestation d'admission refusée
+centre hospitalier spécialisé
+certification d'admission
+durée d'hospitalisation
+durée de séjour dans un établissement de santé
+durée du séjour
+durée du séjour à l'hôpital
+décharge de patient
+hdt
+hospitalisation
+hospitalisation d'un donneur pour transplantation d'organe
+hospitalisation d'un nourrisson pour observation, accouchement hors de l'hôpital
+hospitalisation d'urgence
+hospitalisation d'urgence (48 heures)
+hospitalisation d'urgence, de la salle d'urgence
+hospitalisation d'urgence, de la salle d'urgence, de nature médicale
+hospitalisation d'urgence, de la salle d'urgence, pour blessure accidentelle
+hospitalisation d'urgence, directe
+hospitalisation d'urgence, indirecte
+hospitalisation de court séjour
+hospitalisation de court séjour, 24 heures
+hospitalisation de court séjour, soins de jour
+hospitalisation de la mère pour observation, accouchement hors de l'hôpital
+hospitalisation en attente de placement dans une maison de soins infirmiers
+hospitalisation en pension pour raisons sociales
+hospitalisation involontaire
+hospitalisation limitée à des actes désignés
+hospitalisation long séjour
+hospitalisation par autorité légale (placement d'office)
+hospitalisation planifiée
+hospitalisation pour bilan biologique, radiographie, etc.
+hospitalisation pour investigation en recherche
+hospitalisation pour isolement
+hospitalisation pour observation
+hospitalisation prolongée
+hospitalisation pré-certifiée par évaluation des soins médicaux
+hospitalisation récente
+hospitalisation sous garde policière
+hospitalisation spéciale
+hospitalisation à la demande d'un tiers
+hospitalisation à partir d'une région éloignée par moyens de transport spéciaux
+hospitalisation élective
+hospitalisation élective avec bilan complet en pré-admission
+hospitalisation élective avec bilan partiel en pré-admission
+hospitalisation élective sans bilan en pré-admission
+hospitalisation, donneur de sang
+hospitalisation, transfert d'un autre centre hospitalier ou d'un établissement de santé
+hospitalisation, type non classifié, à expliquer par un rapport
+hospitalisations multiples
+hospitalisé
+hospitalisée
+mise en observation pour suspicion d'effet toxique de substances ingérées
+mise en observation pour suspicion de maladie
+mise en observation pour suspicion de maladie, sans précision
+mise en observation pour suspicion de pathologie
+médicalisé
+médicalisée
+obtention du consentement éclairé du patient
+obtention du consentement éclairé du patient pour investigation médicale
+patient médicalisé
+patiente médicalisée
+placement unité soins longue durée
+planification des sorties d'hôpital
+ré-hospitalisation
+réadmission du malade
+réadmission du patient
+réadmissions hospitalières
+réadmissions à l'hôpital
+révision d'admission
+section 0-1 hospitalisations
+sortie d'hôpital du malade
+sortie d'hôpital du patient
+sortie du patient
+sortie du patient d'un établissement de santé
+séjour hospitalier
+séjours nombreux hôpital
+transfert de la prise en charge clinique
+transfert de la prise en charge des soins infirmiers
+transfert de la prise en charge du patient
+transfert de la prise en charge infirmière
+transfert de malade
+transfert de patient
+transfert de patients entre hôpitaux
+transfert de patients inter-hôpitaux
+transfert de patients interhôpitaux
+transferts cliniques
+usld

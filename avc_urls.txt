@@ -1,0 +1,13 @@
+http://bioportal.lirmm.fr/ontologies/ONTOLURGENCES?p=classes&conceptid=http%3A%2F%2Fwww.limics.fr%2Fontologies%2Fontolurgences%23AccidentVasculaireCerebral
+http://bioportal.lirmm.fr/ontologies/ONTOPNEUMO?p=classes&conceptid=http%3A%2F%2Fdoe-generated-ontology.com%2FOntoPneumo%23AccidentVasculaireCerebral
+http://bioportal.lirmm.fr/ontologies/SNMIFRE?p=classes&conceptid=http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23D3-89550
+http://bioportal.lirmm.fr/ontologies/SNMIFRE/?p=classes&conceptid=http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23D3-89502
+http://bioportal.lirmm.fr/ontologies/CIM-10DCD?p=classes&conceptid=http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FCIM-10%23P52.9
+http://bioportal.lirmm.fr/ontologies/MSHFRE?p=classes&conceptid=http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD059409
+http://bioportal.lirmm.fr/ontologies/MSHFRE?p=classes&conceptid=http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD020521
+http://bioportal.lirmm.fr/ontologies/CISP-2?p=classes&conceptid=http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FCISP-2%23K90
+http://bioportal.lirmm.fr/ontologies/WHO-ARTFRE?p=classes&conceptid=http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FWHO-ART%230445_IT2
+http://bioportal.lirmm.fr/ontologies/MEDLINEPLUS?p=classes&conceptid=http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FMedlinePlus%23T8
+http://bioportal.lirmm.fr/ontologies/CIM-10/?p=classes&conceptid=http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FCIM-10%23G45
+http://bioportal.lirmm.fr/ontologies/CIM-10/?p=classes&conceptid=http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FCIM-10%23I64
+

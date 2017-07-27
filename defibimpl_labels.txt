@@ -1,0 +1,76 @@
+dai (défibrillateur automatique implantable)
+dea (défibrillateur externe automatique)
+defibrillateur cardiaque double chambre freq. asserv., ela, alto 2 dr 624
+defibrillateur cardiaque double chambre freq. asserv., ela, alto dr 614
+defibrillateur cardiaque double chambre freq.asserv., guidant, ventak prizm ii dr
+defibrillateur cardiaque double chambre freq.asserv., guidant, vitality dr
+defibrillateur cardiaque double chambre freq.asserv., medtronic, entrust dr
+defibrillateur cardiaque double chambre freq.asserv., medtronic, marquis dr 7274
+defibrillateur cardiaque double chambre freq.asserv., sorin, ovatio dr 6550
+defibrillateur cardiaque double chambre freq.asserv., st jude, photon dr v232
+defibrillateur cardiaque double chambre freq.asserv., st-jude, epic + dr v236
+defibrillateur cardiaque double chambre freq.asserv., st-jude, epic + dr v239
+defibrillateur cardiaque simple chambre freq. asserv., biotronik, lexos vr
+defibrillateur cardiaque simple chambre freq. asserv., ela, alto 2 vr 625
+defibrillateur cardiaque simple chambre freq.asserv, boston et guidant t, vitality 2 vr el
+defibrillateur cardiaque simple chambre freq.asserv., boston, vitality 2vrt175
+defibrillateur cardiaque simple chambre freq.asserv., medtronic, marquis vr 7230
+defibrillateur cardiaque simple chambre freq.asserv., medtronic, maximo vr 7232
+defibrillateur cardiaque simple chambre freq.asserv., st jude, photon vr v194
+defibrillateur cardiaque simple chambre freq.asserv., st-jude, epic + vr v196
+defibrillateur cardiaque stim. bi-ventriculaire, biotronik france, kronos lv-t
+defibrillateur cardiaque stim. bi-ventriculaire, boston, contak ren. 4he h197
+defibrillateur cardiaque stim. bi-ventriculaire, medtronic, insync marquis 7277
+defibrillateur cardiaque stim. bi-ventriculaire, medtronic, insync sentry 7298
+defibrillateur cardiaque stim. bi-ventriculaire, st-jude, atlas + hf v-341
+defibrillateur cardiaque stim. bi-ventriculaire, st-jude, epic + hf v-350
+défibrillateur
+défibrillateur automatique
+défibrillateur automatique implantable
+défibrillateur cardiaque
+défibrillateur cardiaque double chambre fréq. asserv., biotronik, lumax dr-t
+défibrillateur cardiaque double chambre fréq. asserv., guidant, confient dr
+défibrillateur cardiaque double chambre fréq. asserv., medtronic, virtuoso dr
+défibrillateur cardiaque double chambre fréq. asserv., saint-jude, epic ii + dr v 258
+défibrillateur cardiaque double chambre fréq. asserv., saint-jude, epic ii dr v 255
+défibrillateur cardiaque simple chambre fré. asserv. st-jude, analyst accel vr
+défibrillateur cardiaque simple chambre fréq. asserv. st-jude, current accel vr
+défibrillateur cardiaque simple chambre fréq. asserv., biotronik, lumax 340vr-txl
+défibrillateur cardiaque simple chambre fréq. asserv., biotronik, lumax vr-t
+défibrillateur cardiaque simple chambre fréq. asserv., saint-jude, epic ii vr v 158
+défibrillateur cardiaque simple chambre fréq. asserv., st-jude, atlas ii vr v-168
+défibrillateur cardiaque simple chambre fréq. asserv., st-jude, current rf vr
+défibrillateur cardiaque simple chambre fréq. asserv., st-jude, fortify st vr
+défibrillateur cardiaque stim. bi-ventriculaire, boston, cognis 100-d
+défibrillateur cardiaque stim. bi-ventriculaire, guidant, contak renewal 4rf
+défibrillateur cardiaque stim. bi-ventriculaire, guidant, livian
+défibrillateur cardiaque stim. bi-ventriculaire, medtronic, concerto
+défibrillateur cardiaque stim. bi-ventriculaire, st-jude, unify
+défibrillateur cardiaque stim. biventriculaire, st-jude, atlas ii + hf v-367
+défibrillateur cardiaque stim. biventriculaire, st-jude, epic ii + hf v 357
+défibrillateur cardiaque stim. biventriculaire, st-jude, epic ii hf v 355
+défibrillateur cardique double chambre fréquence asservie, biotronik, lumax 540 drt
+défibrillateur implantable
+défibrillateur interne
+défibrillateur semi-automatique
+défibrillateur à synchronisation automatique
+défibrillateurs
+défibrillateurs automatiques externes
+défibrillateurs automatiques implantables
+défibrillateurs cardiovecteurs implantables
+défibrillateurs externes
+défibrillateurs externes automatiques
+défibrillateurs implantables
+présence d'un stimulateur cardiaque
+section 7 : defibrillateur cardiaque implantable
+sous-section 1 :  defibrillateur cardiaque simple chambre a frequence asservie
+sous-section 2 :  defibrillateur cardiaque double chambre a frequence asservie
+sous-section 3 :  defibrillateur cardiaque stimulation atrio-bi-ventriculaire dit triple chambre
+stimulateur cardiaque triple chambre, st jude, frontier ii, modele 5596
+stimulateurs cardiaques et défibrillateurs implantables
+stimulateurs cardiaques par chocs électriques
+z95.0 - présence d'un stimulateur cardiaque
+ defibrillateur cardiaque double chambre a frequence asservie
+ defibrillateur cardiaque implantable
+ defibrillateur cardiaque simple chambre a frequence asservie
+ defibrillateur cardiaque stimulation atrio-bi-ventriculaire dit triple chambre

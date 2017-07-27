@@ -1,0 +1,7 @@
+http://bioportal.lirmm.fr/ontologies/SNMIFRE?p=classes&conceptid=http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23A-11200
+http://bioportal.lirmm.fr/ontologies/SNMIFRE?p=classes&conceptid=http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23A-11206
+http://bioportal.lirmm.fr/ontologies/ONTOLURGENCES?p=classes&conceptid=http%3A%2F%2Fwww.limics.fr%2Fontologies%2Fontolurgences%23Defibrillateur
+http://bioportal.lirmm.fr/ontologies/MEDLINEPLUS?p=classes&conceptid=http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FMedlinePlus%23T3447 
+http://bioportal.lirmm.fr/ontologies/MSHFRE?p=classes&conceptid=http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD047548
+http://bioportal.lirmm.fr/ontologies/CIM-10?p=classes&conceptid=http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FCIM-10%23Z95.0 
+http://bioportal.lirmm.fr/ontologies/LPP/?p=classes&conceptid=http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FLPP%231000228 

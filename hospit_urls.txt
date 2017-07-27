@@ -1,0 +1,6 @@
+http://bioportal.lirmm.fr/ontologies/MSHFRE?p=classes&conceptid=http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMSHFRE%2FD006760
+http://bioportal.lirmm.fr/ontologies/ONTOLURGENCES?p=classes&conceptid=http%3A%2F%2Fwww.limics.fr%2Fontologies%2Fontolurgences%23Hospitalisation
+http://bioportal.lirmm.fr/ontologies/SNMIFRE/?p=classes&conceptid=http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23P0-10000_S1
+http://bioportal.lirmm.fr/ontologies/MDRFRE?p=classes&conceptid=http%3A%2F%2Fpurl.lirmm.fr%2Fontology%2FMDRFRE%2F10054112
+http://bioportal.lirmm.fr/ontologies/CIM-10DCD?p=classes&conceptid=http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FCIM-10%23Z76.9
+

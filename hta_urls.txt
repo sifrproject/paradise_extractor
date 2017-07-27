@@ -1,0 +1,3 @@
+http://bioportal.lirmm.fr/ontologies/SNMIFRE/?p=classes&conceptid=http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FSNOMED_int.%23D3-02000_S2
+http://bioportal.lirmm.fr/ontologies/ONTOLURGENCES?p=classes&conceptid=http%3A%2F%2Fwww.limics.fr%2Fontologies%2Fontolurgences%23HypertensionArterielle
+http://bioportal.lirmm.fr/ontologies/CIM-10DCD?p=classes&conceptid=http%3A%2F%2Fchu-rouen.fr%2Fcismef%2FCIM-10%23I10

@@ -1,0 +1,148 @@
+angine de poitrine
+angine de poitrine instable
+angine de poitrine, sans précision
+angor
+angor crescendo
+angor de décubitus
+angor de prinzmetal
+angor de repos
+angor instable
+angor nocturne
+angor postinfarctus
+angor stable
+angor, classe i
+angor, classe ii
+angor, classe iii
+angor, classe iv
+anomalies artérielles coronaires nca
+anévrisme artériel coronaire
+anévrisme coronarien
+anévrisme d'une artère coronaire
+anévrisme de l'artère coronaire
+anévrisme des vaisseaux coronaires
+anévrisme disséquant de l'artère coronaire
+anévrysme coronarien
+anévrysme de l'artère coronaire
+artériosclérose coronaire
+artériosclérose coronarienne
+artériosclérose de l'artère coronaire
+artériosclérose des artères coronaires
+artériosclérose des coronaires
+artériospasme coronaire
+artérite coronaire
+athérome coronarien
+athérome des (artères) coronaires
+athérosclérose coronarienne
+athérosclérose des (artères) coronaires
+athérosclérose des artères coronaires
+athérosclérose des coronaires
+cardiopathie artérioscléreuse
+coronaropathie
+coronaropathie congénitale ou acquise
+crise cardiaque
+dilatation de l'artère coronaire
+dissection de l'artère coronaire
+douleur thoracique
+déformation coronaire
+embolie artérielle coronaire
+fistule artérioveineuse coronaire, acquise
+gêne thoracique
+hémorragie de l'artère coronaire
+i25.1 - cardiopathie artérioscléreuse
+i25.4 - anévrisme d'une artère coronaire
+infarctus (aigu) du myocarde sans précision, autres prises en charge
+infarctus aigu du myocarde avec autres prises en charge de plus de 6h
+infarctus d'un muscle papillaire
+infarctus du myocarde
+infarctus du myocarde aigu
+infarctus du myocarde silencieux
+infarctus myocardique postintervention
+infarctus transmural aigu du myocarde de la paroi antérieure
+infarctus transmural aigu du myocarde de la paroi antérieure, prise en charge non précisée
+infarctus transmural aigu du myocarde de la paroi inférieure
+infarctus transmural aigu du myocarde de la paroi inférieure, prise en charge non précisée
+insuffisance artérielle coronaire
+insuffisance coronaire
+insuffisance coronarienne
+ischémie cardiaque
+ischémie myocardique
+ischémie sous-endocardique
+lésion de l'artère circonflexe
+lésion de l'artère coronaire circonflexe
+lésion de l'artère coronaire droite
+lésion de l'artère interventriculaire antérieure
+lésion de l'interventriculaire antérieure
+lésion de l'iva
+lésion de la circonflexe
+lésion de la coronaire droite
+lésion de la droite
+lésion du tronc commun
+lésion lors de la reperfusion myocardique
+maladie artérielle coronaire microvasculaire
+maladie artérielle coronarienne
+maladie cardiaque artériosclérotique
+maladie de l'artère coronaire
+maladie des (artères) coronaires
+maladie des artères coronaires
+maladie des coronaires
+nstemi
+occlusion artérielle coronaire
+occlusion coronarienne
+occlusion d'une artère coronaire
+occlusion de la greffe vasculaire coronarienne
+perforation de l'artère coronaire
+phénomène de non reperfusion coronaire
+pontage coronarien
+resténose de l'artère coronaire
+réocclusion de l'artère coronaire
+sca
+sca st+
+sca st-
+sclérose artérielle coronarienne
+sclérose coronaire
+sclérose des (artères) coronaires
+sidération myocardique
+spasme coronaire
+spasme d'une artère coronaire
+stemi
+sténose artérielle coronaire
+sténose bissectrice
+sténose circonflexe
+sténose coronaire
+sténose coronaire droite
+sténose coronaire ostiale
+sténose coronarienne
+sténose de greffe vasculaire coronarienne
+sténose de l'artère circonflexe
+sténose de l'artère coronaire
+sténose de l'artère coronaire droite
+sténose de l'artère interventriculaire antérieure
+sténose de l'artère marginale
+sténose de l'iva
+sténose de la bissectrice
+sténose de la circonflexe
+sténose de la coronaire bissectrice
+sténose de la coronaire circonflexe
+sténose de la coronaire droite
+sténose de la coronaire marginale
+sténose de la marginale
+sténose de pontage coronarien
+sténose des artères coronaires
+sténose du tronc commun
+syndrome coronaire aigu
+syndrome coronaire aigu st +
+syndrome coronaire aigu st -
+syndrome coronarien
+syndrome coronarien aigu
+syndrome coronarien aigu st +
+syndrome coronarien aigu st -
+syndrome de kounis
+syndrome du vol coronaro-sous-clavier
+syndrome pré-infarctus
+syndrome prémonitoire
+thrombose artérielle coronaire
+thrombose du pontage coronarien
+troubles artériels coronaires
+troubles ischémiques d'origine coronarienne
+vasospasme coronarien
+équivalent angineux

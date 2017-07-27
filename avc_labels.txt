@@ -1,0 +1,183 @@
+accident cérébro-vasculaire
+accident cérébrovasculaire
+accident cérébrovasculaire sai
+accident ischémique constitué
+accident ischémique cérébral
+accident ischémique cérébral régressif
+accident ischémique cérébral transitoire
+accident ischémique cérébral transitoire, sans précision
+accident ischémique transitoire
+accident ischémique transitoire de territoires artériels précérébraux multiples et bilatéraux
+accident vasculaire
+accident vasculaire cérébral
+accident vasculaire cérébral aigu
+accident vasculaire cérébral hémorragique
+accident vasculaire cérébral invalidant
+accident vasculaire cérébral ischémique
+accident vasculaire cérébral lacunaire
+accident vasculaire cérébral péri-natal
+accident vasculaire cérébral sylvien
+accident vasculaire cérébral, non précisé comme étant hémorragique ou par infarctus
+accident vasculaire hémorragique
+accident vasculaire ischémique
+accidents ischémiques cérébraux transitoires et syndromes apparentés
+accidents vasculaires cérébraux lacunaires
+accidentvasculairecerebral
+acv
+aicr
+ait
+amaurose fugace
+amnésie globale transitoire
+anévrisme cérébral rompu
+apoplexie
+apoplexie cérébrale
+attaque apoplectique
+attaque cérébrale
+attaque d'apoplexie
+attaque vasculaire
+autres accidents ischémiques cérébraux transitoires et syndromes apparentés
+avc
+avc (accident vasculaire cérébral)
+avc anté-natal
+avc hémorragique
+avc ischémique
+avc lacunaire
+avc massif
+avc nouveau-né
+avc sp
+céphalhématome
+démence lacunaire
+démence multi-infarctus
+démence par infarctus multiples
+démence plurilacunaire
+embole de l'artère cérébrale moyenne
+embolie artérielle cérébrale
+embolie cérébrale
+g45 - accidents ischémiques cérébraux transitoires et syndromes apparentés
+g45.0 - syndrome vertébro-basilaire
+g45.1 - syndrome carotidien (hémisphérique)
+g45.2 - accident ischémique transitoire de territoires artériels précérébraux multiples et bilatéraux
+g45.3 - amaurose fugace
+g45.4 - amnésie globale transitoire
+g45.8 - autres accidents ischémiques cérébraux transitoires et syndromes apparentés
+g45.9 - accident ischémique cérébral transitoire, sans précision
+hématome extra durale
+hématome intra-crânien
+hématome intracrânien
+hématome intracérébral
+hématome sous durale
+hématome sous durale traumatique
+hématome sous-dural
+hématome sous-dural non traumatique
+hémorragie cérébrale
+hémorragie cérébro méningée
+hémorragie cérébro-méningée
+hémorragie extradurale
+hémorragie intra-crânienne
+hémorragie intra-crânienne massive
+hémorragie intra-crânienne parenchymateuse
+hémorragie intra-cérébrale
+hémorragie intra-ventriculaire
+hémorragie intracrânienne
+hémorragie intracrânienne nn
+hémorragie intracr√¢nienne
+hémorragie intracérébrale
+hémorragie intracérébrale, sans précision
+hémorragie intraventriculaire
+hémorragie méningée
+hémorragie sous arachnoïdienne
+hémorragie sous durale traumatique
+hémorragie sous-arachnoïdienne, sans précision
+hémorragie sous-corticale
+hémorragie sous-durale
+hémorragie sous-durale non traumatique
+hémorragie triventriculaire
+hémorragie tétraventriculaire
+hémorragie ventriculaire
+hémorragie épidurale
+i64 - accident vasculaire cérébral, non précisé comme étant hémorragique ou par infarctus
+ictus apoplectique
+ictus cérébral
+infarcissement de l'encéphale
+infarcissement encéphalique
+infarctus cérébelleux
+infarctus cérébral
+infarctus cérébral de l'hémisphère droit
+infarctus cérébral de l'hémisphère gauche
+infarctus cérébral, sans précision
+infarctus de l'aca
+infarctus de l'acm
+infarctus de l'acp
+infarctus de l'artère choroïdienne antérieure
+infarctus de l'artère choroïdienne postérieure
+infarctus de l'artère cérébrale antérieure
+infarctus de l'artère cérébrale moyenne
+infarctus de l'artère cérébrale moyenne droite
+infarctus de l'artère cérébrale moyenne gauche
+infarctus de l'artère cérébrale postérieure
+infarctus de l'artère d'heubner
+infarctus de l'encéphale
+infarctus de la circulation antérieure de l'encéphale
+infarctus de la circulation antérieure encéphalique
+infarctus de la circulation cérébrale antérieure
+infarctus de la circulation postérieure de l'encéphale
+infarctus de la circulation postérieure encéphalique
+infarctus du cerveau
+infarctus du territoire de l'aca
+infarctus du territoire de l'acm
+infarctus du territoire de l'acp
+infarctus du territoire de l'artère choroïdienne antérieure
+infarctus du territoire de l'artère choroïdienne postérieure
+infarctus du territoire de l'artère cérébrale antérieure
+infarctus du territoire de l'artère cérébrale moyenne
+infarctus du territoire de l'artère cérébrale moyenne droite
+infarctus du territoire de l'artère cérébrale moyenne gauche
+infarctus du territoire de l'artère cérébrale postérieure
+infarctus du territoire de l'artère d'heubner
+infarctus du tronc cérébral
+infarctus embolique de l'artère cérébrale moyenne
+infarctus embolique de l'artère cérébrale postérieure
+infarctus embolique du territoire de l'artère cérébrale moyenne
+infarctus embolique du territoire de l'artère cérébrale postérieure
+infarctus encéphalique
+infarctus lacunaire
+infarctus lacunaires
+infarctus sous-cortical
+infarctus thrombotique de l'artère cérébrale moyenne
+infarctus thrombotique de l'artère cérébrale postérieure
+infarctus thrombotique du territoire de l'artère cérébrale moyenne
+infarctus thrombotique du territoire de l'artère cérébrale postérieure
+ischémie cérébrale
+ischémie cérébrale transitoire
+ischémie cérébrale transitoire sai
+ischémie du tronc cérébral
+ischémie spasmodique cérébrale
+lnfarctus latérobulbaire
+maladie cérébrovasculaire aiguë mal définie
+occlusion d'une artère cérébrale
+occlusion de l'artère cérébrale moyenne
+quadriplégie anté-natale
+rupture d'un vaisseau sanguin dans le cerveau
+saignement intra-crânien
+saignement intracrânien nn
+spasme de l'artère cérébrale
+syndrome carotidien (hémisphérique)
+syndrome de benedikt
+syndrome de claude
+syndrome de foville
+syndrome de l'artère cérébrale antérieure
+syndrome de l'artère cérébrale moyenne
+syndrome de l'artère cérébrale postérieure
+syndrome de millard-gubler
+syndrome de wallenberg
+syndrome de weber
+syndrome hémorragique sous arachnoïdien
+syndrome inférieur du noyau rouge
+syndrome lacunaire
+syndrome latéral du bulbe
+syndrome latéro-bulbaire
+syndrome médullaire latéral
+syndrome pyramidal
+syndrome tétrapyramidal
+syndrome vertébro-basilaire
+thrombose de l'artère cérébrale moyenne
